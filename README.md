@@ -12,7 +12,7 @@ Implements the binary classification model architecture.
 Defines functions for training and testing the model.
 
 
-##<# Dataset Splitting Module (split_dataset.py):
+### Dataset Splitting Module (split_dataset.py):
 
 Contains functions to split the dataset into training and testing sets.
 Utilizes the "Cats and Dogs Dataset" for training the model.
