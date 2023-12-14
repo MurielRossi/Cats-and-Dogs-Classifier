@@ -38,7 +38,8 @@ If the name does not contain the words "Cat" or "Dog", the Ground Thruth will be
 
 
 ## Usage
-###Training the Model
+
+### Training the Model
 To train the model, run the "main_train.py" script, which uses the modules for data manipulation and model implementation. This script will save the trained model for later use.
 
 ### Making Predictions
